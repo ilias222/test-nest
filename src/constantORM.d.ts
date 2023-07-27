@@ -1,0 +1,9 @@
+export declare const TYPEORM_CONNECTION: any;
+export declare const TYPEORM_HOST: any;
+export declare const TYPEORM_USERNAME: any;
+export declare const TYPEORM_PASSWORD: any;
+export declare const TYPEORM_DATABASE: any;
+export declare const TYPEORM_PORT: any;
+export declare const TYPEORM_SYNCHRONIZE: any;
+export declare const TYPEORM_DRIVER_EXTRA: any;
+export declare const TYPEORM_ENTITIES: any;
